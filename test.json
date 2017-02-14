@@ -1,28 +1,28 @@
 {
-  "$jason": {
-    "head": {
-      "title": "Welcome",
-      "styles": {
-        "bold": {
-          "font": "HelveticaNeue-CondensedBold",
-          "padding": "10",
-          "size": "15"
-        },
-        "normal": {
-          "font": "HelveticaNeue",
-          "size": "12"
-        }
-      },
-    },
-    "body": {
-      "header": {
-        "title": "Header?"
-        },
-        "style": {
-          "font": "AvenirNext-Heavy",
-          "size": "18"
-        }
-      }
-    }
-  }
+	"$jason": {
+		"head": {
+			"title": "Welcome",
+			"styles": {
+				"bold": {
+					"font": "HelveticaNeue-CondensedBold",
+					"padding": "10",
+					"size": "15"
+				},
+				"normal": {
+					"font": "HelveticaNeue",
+					"size": "12"
+				}
+			}
+		},
+		"body": {
+			"header": {
+				"title": "Header?"
+			},
+			"style": {
+				"font": "AvenirNext-Heavy",
+				"size": "18"
+			}
+		}
+	}
+
 }
